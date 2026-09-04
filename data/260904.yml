@@ -7,7 +7,7 @@ about:
   head: af4eefd
   archived: false
   latestVersion: v4.2.0
-  collectedAt: 2026-09-04T19:21:19Z
+  collectedAt: 2026-09-04T21:13:04Z
 timeline:
   created: 2016-06-22
   lastCommit: 2026-02-13
@@ -81,6 +81,29 @@ total:
   openIssue: 1
   commit: 65
 ---
+path: /home/runner/.x-repo/github.com/sindresorhus/emoj
+collectedAt: 2026-09-04T21:13:05Z
+loc:
+  Tsx:
+    code: 342
+    comments: 15
+    blanks: 63
+    files: 4
+  Json:
+    code: 93
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 30
+    blanks: 16
+    files: 1
+total:
+  code: 435
+  comments: 45
+  blanks: 79
+  files: 7
 ---
 date: "2026-08-24"
 repo:
