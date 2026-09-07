@@ -5,7 +5,7 @@ about:
   head: af4eefd
   archived: false
   latestVersion: "v4.2.0"
-  collectedAt: 2026-09-07T05:23:57Z
+  collectedAt: 2026-09-07T19:04:48Z
 timeline:
   created: 2016-06-22
   lastCommit: 2026-02-13
@@ -80,7 +80,7 @@ total:
   commit: 65
 ---
 path: /home/runner/.x-repo/github.com/sindresorhus/emoj
-collectedAt: 2026-09-07T05:23:58Z
+collectedAt: 2026-09-07T19:04:50Z
 loc:
   Tsx:
     code: 342
@@ -187,7 +187,7 @@ checks:
       - 'Warn: 0 commits out of 7 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:23:59+00:00
+  collectedAt: 2026-09-07T19:04:51+00:00
   platform:
     darwin/arm64:
       name:  null
