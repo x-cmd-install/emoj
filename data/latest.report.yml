@@ -5,7 +5,7 @@ about:
   head: af4eefd
   archived: false
   latestVersion: "v4.2.0"
-  collectedAt: 2026-09-08T02:41:04Z
+  collectedAt: 2026-09-08T05:23:12Z
 timeline:
   created: 2016-06-22
   lastCommit: 2026-02-13
@@ -80,7 +80,7 @@ total:
   commit: 65
 ---
 path: /home/runner/.x-repo/github.com/sindresorhus/emoj
-collectedAt: 2026-09-08T02:41:04Z
+collectedAt: 2026-09-08T05:23:12Z
 loc:
   Tsx:
     code: 342
