@@ -7,7 +7,7 @@ Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raise
 - **Latest release**: `v4.2.0` (2025-09-11)
 - **Last commit**: 2026-02-13
 - **License**: MIT
-- **Stars**: 2429 · **Forks**: 65 · **Open issues**: 32 · **Contributors**: 7
+- **Stars**: 2428 · **Forks**: 65 · **Open issues**: 32 · **Contributors**: 7
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/emoj> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:39:40Z._
+_Last regenerated: 2026-09-09T19:55:22Z._
