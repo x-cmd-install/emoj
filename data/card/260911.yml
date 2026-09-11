@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.2.0"
   latestRelease: "v4.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:39:50Z
+  collectedAt: 2026-09-11T19:26:21Z
 timeline:
   created: 2016-06-22
   lastCommit: 2026-02-13
@@ -84,7 +84,7 @@ total:
   commit: 65
 ---
 path: /home/runner/.x-repo/github.com/sindresorhus/emoj
-collectedAt: 2026-09-11T05:39:53Z
+collectedAt: 2026-09-11T19:26:22Z
 loc:
   Tsx:
     code: 342
