@@ -190,4 +190,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 7 are checked with a SAST tool'
 ---
-{"id":246599756,"author":{"login":"sindresorhus","id":170270,"node_id":"MDQ6VXNlcjE3MDI3MA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOA64pVs4OstBM","tag_name":"v4.2.0","target_commitish":"main","name":"","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-09-11T19:54:47Z","updated_at":"2025-09-11T19:55:05Z","published_at":"2025-09-11T19:55:05Z","assets":[],"body":"- Auto-combine multiple positional arguments with spaces  6373ff2\r\n- Add ability to copy emoji without exiting using Tab key  4bc2bd9\r\n\r\n---\r\n\r\nhttps://github.com/sindresorhus/emoj/compare/v4.1.0...v4.2.0"}
